@@ -1,0 +1,42 @@
+site_name: Grid
+
+theme:
+  name: "material"
+  icon:
+    logo: material/view-grid-plus
+  favicon: assets/view-grid-plus-outline-dark.png
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  features:
+    - navigation.tracking
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Grid: README.md
+  - Framework: table.md
+  - Getting Started:
+      - Coordinates: coordinates.md
+      - Discovery: discovery.md
