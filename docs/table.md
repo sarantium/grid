@@ -129,7 +129,7 @@ line_end_circle
    </tr>
    <tr>
      <th scope ="row">5</th>
-     <td style ="text-align: center"><a href="https://youtu.be/vvmcoFKOb9M">Youtube 1</a></td>
+     <td style ="text-align: center"><a href="\assets\cr_shortguide_221004.pdf">Critical Realism</a></td>
      <td style ="text-align: center"><sub>-Continuous Discovery<br>- Double Diamond<br>- Diataxis<sub></td>
      <td style ="text-align: center">Vision</td>
      <td style ="text-align: center">Strategy</td>

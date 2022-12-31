@@ -28,11 +28,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - tables
 
-plugins:
-  - search
-
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - search
 
 nav:
   - Grid: README.md
@@ -40,3 +40,5 @@ nav:
   - Getting Started:
       - Coordinates: coordinates.md
       - Discovery: discovery.md
+  - Releases: releases.md
+  - Citations: citations.md
