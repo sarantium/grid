@@ -1,4 +1,8 @@
 site_name: Grid
+site_url: https://grid.sarantium.dev
+site_description: Grid - A positioning framework for product development
+repo_url: https://github.com/sarantium/grid
+repo_name: sarantium/grid
 
 theme:
   name: "material"
@@ -20,6 +24,23 @@ theme:
         name: Switch to light mode
   features:
     - navigation.tracking
+    - search.highlight
+    - search.share
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sarantium/grid
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ashvinparameswaran
+    - icon: fontawesome/solid/globe
+      link: https://sarantium.dev
+  analytics:
+    provider: google
+    property: G-KKL5FCE0BT
+
+copyright: Copyright &copy; 2022 - 2023 Sarantium
+edit_uri: ""
 
 markdown_extensions:
   - attr_list
@@ -27,6 +48,9 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra_css:
   - stylesheets/extra.css

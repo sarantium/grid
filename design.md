@@ -1,9 +1,12 @@
 # NOW
 
-- [x] install mkdocs
-- [x] install material for mkdocs
-- [x] run mkdocs new .
-- [ ] basic yml configuration
+- [ ] add google analytics
+- [ ] move to grid.sarantium.dev
+- [ ] redo example in homepage to basically be a table with some empty cells and keep the explanation simple
+- [ ] where do product principles go
+- [ ] add a page for contributing guide
+- [ ] read general product operations literature and see how it fits
+- [ ] minimal release is framework plus homepage plus getting started
 
 # NEXT
 

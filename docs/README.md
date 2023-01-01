@@ -7,7 +7,7 @@
 
 ---
 
-**Documentation**: <a href="https://grid.sarantium.dev" target="_blank">https://grid.sarantium.dev</a>
+**Documentation**: <a href="https://sarantium.github.io/grid/" target="_blank">https://sarantium.github.io/grid/</a>
 
 **Source Code**: <a href="https://github.com/sarantium/grid" target="_blank">https://github.com/sarantium/grid</a>
 
@@ -27,24 +27,57 @@ Grid's key features are:
 
 ## :material-map-marker-plus-outline: Positioning
 
-**Grid** simplifies how product managers can create convincing, high level explanations of what they are doing now and what they might do next as part of product development.
+**Grid** reduces uncertainty and increases confidence for the stories product managers tell themselves and others about the sequence and value of current and future activity.
 
-Sometimes, positioning is carried out to an audience of one. Grid reduces uncertainty and increases confidence for the stories product managers tell themselves about the sequence and value of current and future activity.
+!!! tip
+
+    **Grid** helps product managers create convincing, high level explanations about product development practice
+
+At minimum, the framework lets individuals sidestep impostor syndrome
 
 As a communication tool, Grid also helps product managers share these stories with other internal teams and decision makers, again derisking the unknown...
 
 It can also help chart routes across a life
 
-to internal teams and decision makers
+## Example
 
-interacting with SQL databases in <a href="https://fastapi.tiangolo.com" class="external-link" target="_blank">FastAPI</a> applications, it was created by the same <a href="https://tiangolo.com/" class="external-link" target="_blank">author</a>. 😁
+Let's use **customer interviews** as a very common product activity to orientate users
 
-It combines SQLAlchemy and Pydantic and tries to simplify the code you write as much as possible, allowing you to reduce the **code duplication to a minimum**, but while getting the **best developer experience** possible.
+### Moving down columns
 
-**SQLModel** is, in fact, a thin layer on top of **Pydantic** and **SQLAlchemy**, carefully designed to be compatible with both.
+An interview is an activity that is part of the **Discover (H2)** phase in the **Growth (H1)** stage of the product development cycle. A milestone output of this activity is an **Opportunity Solution Tree (H4)**
 
-| Method   | Description                          |
-| -------- | ------------------------------------ |
-| `GET`    | :material-check: Fetch resource      |
-| `PUT`    | :material-check-all: Update resource |
-| `DELETE` | :material-close: Delete resource     |
+|       |             H             |
+| :---: | :-----------------------: |
+| **1** |        **Growth**         |
+| **2** |         Discover          |
+| **3** |    :material-magnify:     |
+| **4** | Opportunity Solution Tree |
+
+### Moving across rows
+
+The **Growth (H1:I1)** stage of this activity continues to the next phase - **Define (I2)** - in which the milestone output is a **Product Brief (I4)**
+
+|       |             H             |              I              |             L             |
+| :---: | :-----------------------: | :-------------------------: | :-----------------------: |
+| **1** |        **Growth**         |         **Growth**          |       **Maturity**        |
+| **2** |         Discover          |           Define            |         Research          |
+| **3** |    :material-magnify:     | :font-awesome-solid-shapes: | :fontawesome-solid-flask: |
+| **4** | Opportunity Solution Tree |        Product Brief        |        Experiments        |
+
+### Moving orthogonally
+
+Regular interaction and mini-interviews with customers can also be part of ongoing **Experiments (L4)** in the **Research (L2)** phase of the **Maturity (L1)** stage.
+
+|       |             H             |             L             |
+| :---: | :-----------------------: | :-----------------------: |
+| **1** |        **Growth**         |       **Maturity**        |
+| **2** |         Discover          |         Research          |
+| **3** |    :material-magnify:     | :fontawesome-solid-flask: |
+| **4** | Opportunity Solution Tree |        Experiments        |
+
+### Language
+
+spoken language versus conceptual language
+https://scienceofstrategy.org/main/content/ancient-chinese-difference-between-conceptual-language-and-spoken-language
+ideographs

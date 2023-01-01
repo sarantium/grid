@@ -116,7 +116,7 @@ line_end_circle
      <td style ="text-align: center">Methodology</td>
      <td style ="text-align: center">Vision Statement</td>
      <td style ="text-align: center">Strategy Brief</td>
-     <td style ="text-align: center">Risk Analysis</td>
+     <td style ="text-align: center">Risk Register</td>
      <td style ="text-align: center">RACI</td>
      <td style ="text-align: center">Buy-In</td>
      <td style ="text-align: center">Opportunity Solution Tree</td>
