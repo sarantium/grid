@@ -38,19 +38,41 @@ extra:
   analytics:
     provider: google
     property: G-KKL5FCE0BT
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            <a href="https://github.com/sarantium/grid/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">telling us what you're missing</a>.
 
-copyright: Copyright &copy; 2022 - 2023 Sarantium
+copyright: Copyright &copy; 2022 - 2023 Ashvin Parameswaran
 edit_uri: ""
 
 markdown_extensions:
+  - abbr
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - tables
+  - def_list
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_css:
   - stylesheets/extra.css
@@ -61,8 +83,8 @@ plugins:
 nav:
   - Grid: README.md
   - Framework: table.md
-  - Getting Started:
-      - Coordinates: coordinates.md
-      - Discovery: discovery.md
-  - Releases: releases.md
-  - Citations: citations.md
+  - Syntax: syntax.md
+  - Usage: usage.md
+  - Release Notes: release-notes.md
+  - Reading List: reading-list.md
+  - License: license.md
