@@ -55,3 +55,7 @@ table td + td {
   border-radius: 20px;
   font-size: small;
 }
+
+.pdf {
+  color: maroon;
+}

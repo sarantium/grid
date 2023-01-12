@@ -56,7 +56,7 @@ graph LR
 
 ### Simultaneous movement
 
-Activity can move simultaneously in multiple routes. And some routes repeat themselves iteratively in cycles
+Activity can move simultaneously in multiple routes. And some routes repeat themselves iteratively in cycles.
 
 A busy product manager could easily be juggling a variety of simultaneous and iterative activity.
 

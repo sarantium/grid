@@ -16,10 +16,10 @@ Where available, citations are sourced from [WorldCat](https://www.worldcat.org/
 
 :material-star-circle-outline: `Torres Teresa. 2021. Continuous Discovery Habits : Discover Products That Create Customer Value and Business Value. Bend OR: Product Talk LLC.`
 
-: Introduces a series of valuable concepts that drive discovery: product trio, experience maps, opportunity solution tree, interview snapshots and story maps
+: Introduces a series of valuable concepts that drive discovery: product trio, experience maps, opportunity solution tree, interview snapshots and story maps.
 
 ## Articles
 
-:material-alert-decagram: :material-school-outline: [:material-link:](<(https://rdcu.be/c2MOn)>) `Springer, O., Miler, J. A comprehensive overview of software product management challenges. Empir Software Eng 27, 106 (2022). https://doi.org/10.1007/s10664-022-10134-5`
+:material-alert-decagram: :material-school-outline: [:material-link:](https://rdcu.be/c2Wll) `Springer, O., Miler, J. A comprehensive overview of software product management challenges. Empir Software Eng 27, 106 (2022). https://doi.org/10.1007/s10664-022-10134-5`
 
-: Ranked list of 27 problems faced by product managers. Sourced from a combination of a systematic literature review and interviews with 10 product managers.
+: Ranked list of 27 problems faced by product managers. Sourced from a combination of a systematic literature review, interviews and surveys with sofware product managers.

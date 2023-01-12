@@ -10,6 +10,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
 </head>
 
+# Framework
+
 <table>
   <thead>
    <tr>
@@ -144,3 +146,17 @@ line_end_circle
    </tr>
   </tbody>
 </table>
+
+<!-- <embed src="/assets/cr_shortguide_221004.pdf" width="500" height="375"
+ type="application/pdf"> -->
+
+ <!-- <object data="/assets/cr_shortguide_221004.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=/assets/cr_shortguide_221004.pdf&embedded=true" height="100%" width="100%"></iframe>
+</object> -->
+
+<!-- <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="/assets/cr_shortguide_221004.pdf"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div> -->

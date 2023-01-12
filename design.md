@@ -1,5 +1,7 @@
 # NOW
 
+- [ ] Review https://www.reddit.com/r/ProductManagement/comments/zjt0h3/collection_of_the_top_product_management/
+
 - [x] add google analytics
 - [x] move to grid.sarantium.dev
 - [X ] redo example in homepage to basically be a table with some empty cells and keep the explanation simple

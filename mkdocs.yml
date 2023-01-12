@@ -26,6 +26,8 @@ theme:
     - navigation.tracking
     - search.highlight
     - search.share
+    - content.code.copy
+    - navigation.footer
 
 extra:
   social:
@@ -33,8 +35,9 @@ extra:
       link: https://github.com/sarantium/grid
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/ashvinparameswaran
-    - icon: fontawesome/solid/globe
-      link: https://sarantium.dev
+    - icon: fontawesome/solid/file-pdf
+      link: /assets/ashvin_parameswaran_curriculum_vitae_2023.pdf
+      name: curriculum vitae
   analytics:
     provider: google
     property: G-KKL5FCE0BT
@@ -73,6 +76,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
+  - toc:
+      permalink: ⚓︎
+  - md_in_html
 
 extra_css:
   - stylesheets/extra.css
