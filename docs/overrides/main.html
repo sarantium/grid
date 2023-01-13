@@ -1,5 +1,6 @@
 {% extends "base.html" %} {% block scripts %}
 <!-- Add scripts that need to run before here -->
+{{ super() }}
 <script type="text/javascript">
   (function (c, l, a, r, i, t, y) {
     c[a] =
@@ -14,6 +15,5 @@
     y.parentNode.insertBefore(t, y);
   })(window, document, "clarity", "script", "fbxrdi318o");
 </script>
-{{ super() }}
 <!-- Add scripts that need to run afterwards here -->
 {% endblock %}

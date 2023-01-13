@@ -6,7 +6,7 @@ repo_name: sarantium/grid
 
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: docs/overrides
   icon:
     logo: material/view-grid-plus
   favicon: assets/view-grid-plus-outline-dark.png
