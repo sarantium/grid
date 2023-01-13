@@ -5,7 +5,8 @@ repo_url: https://github.com/sarantium/grid
 repo_name: sarantium/grid
 
 theme:
-  name: "material"
+  name: material
+  custom_dir: overrides
   icon:
     logo: material/view-grid-plus
   favicon: assets/view-grid-plus-outline-dark.png

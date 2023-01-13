@@ -1,10 +1,11 @@
 ## 🚧 0.0.3 (in development) 🚧
 
 - **enhancement**{.chip-enhancement} simplified material icons in framework to prebundled set
-- **data**{.chip-data} added Microsoft Clarity integration
+- **enhancement**{.chip-enhancement} updated [curriculum vitae](./assets/ashvin_parameswaran_curriculum_vitae_2023.pdf)
 
 ## 0.0.2
 
+- **data**{.chip-data} added Microsoft Clarity integration
 - **enhancement**{.chip-enhancement} added link to [curriculum vitae](./assets/ashvin_parameswaran_curriculum_vitae_2023.pdf) in footer
 - **enhancement**{.chip-enhancement} redirect from [https://ashvin.au](https://ashvin.au)
 - **enhancement**{.chip-enhancement} redirect from [https://sarantium.dev](https://sarantium.dev)
