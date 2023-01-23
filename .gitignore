@@ -1,3 +1,5 @@
 .venv 
+.cv
+.streamlit
 
 #* gitignore template https://github.com/github/gitignore/blob/main/Python.gitignore

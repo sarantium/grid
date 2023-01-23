@@ -11,6 +11,8 @@
 
 **Source**: <a href="https://github.com/sarantium/grid" target="_blank">https://github.com/sarantium/grid</a>
 
+**App**: **To Be Added**
+
 ---
 
 **Grid** uses **X, Y** coordinates to locate and connect activities in the product development process.
@@ -24,6 +26,7 @@ Grid's key features are:
 - **Intuitive**: Cell coordinates make navigation and referencing a breeze
 - **Curated**: Modern product tools and templates selected with a bias for lean workflows
 - **Extensible**: Add, remove or modify rows, columns and cells to get the right fit
+- **Creative**: Cutting edge use of natural language processing to generate product artefacts
 
 ## :material-map-marker-plus-outline: Positioning
 

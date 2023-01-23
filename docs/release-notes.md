@@ -1,5 +1,8 @@
 ## 🚧 0.0.3 (in development) 🚧
 
+- **enhancement**{.chip-enhancement} updated readme to include generate section and artificial intelligence
+- **feature**{.chip-enhancement} added initial commit for app
+- **feature**{.chip-enhancement} added ai documentation
 - **enhancement**{.chip-enhancement} simplified material icons in framework to prebundled set
 - **fix**{.chip-fix} edit git log to "release: v0.0.1"
 

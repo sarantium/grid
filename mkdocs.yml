@@ -29,6 +29,7 @@ theme:
     - search.share
     - content.code.copy
     - navigation.footer
+    - navigation.top
 
 extra:
   social:
@@ -91,6 +92,8 @@ nav:
   - Grid: README.md
   - Framework: table.md
   - Syntax: syntax.md
+  - App: "https://www.google.com"
+  - AI: artificial_intelligence.md
   - Usage: usage.md
   - Release Notes: release-notes.md
   - Reading List: reading-list.md
