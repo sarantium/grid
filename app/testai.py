@@ -1,8 +1,8 @@
 import openai
+import streamlit as st
 
-api_key = "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"
-
-openai.api_key=api_key
+# api key
+openai.api_key = st.secrets["api_key"]
 
 PROMPT = """
 The Grid is a positioning framework that is used in digital product development. It is represented in a table format, with a header row containing the letters A to N, and a header column containing the numbers 1 to 3. The table is divided into multiple rows, each containing different information that is relevant to the product development process. Specifically, the table includes the following rows:

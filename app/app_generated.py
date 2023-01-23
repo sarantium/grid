@@ -2,8 +2,9 @@ import openai
 import streamlit as st
 import requests
 
-# SECRET
-# api_key = "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"
+
+# api key
+openai.api_key = st.secrets["api_key"]
 
 # initialise lists to store prompts and generated outputs
 prompts: list[str|None] = []
