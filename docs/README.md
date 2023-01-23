@@ -2,7 +2,7 @@
   <a><img src="assets\icon-teal-300px.png" alt="Grid"></a>
 </p>
 <p align="center">
-    <em>Grid is a <b>positioning</b> framework for <b>digital product development</b></em>
+    <em>Grid is a <b>positioning</b> framework and <b>generative</b> app for digital  <b>product development</b></em>
 </p>
 
 ---
@@ -11,13 +11,15 @@
 
 **Source**: <a href="https://github.com/sarantium/grid" target="_blank">https://github.com/sarantium/grid</a>
 
-**App**: **To Be Added**
+**App**: <a href="https://gridpm.streamlit.app" target="_blank">https://gridpm.streamlit.app</a>
 
 ---
 
-**Grid** uses **X, Y** coordinates to locate and connect activities in the product development process.
+**Grid** uses **X, Y** coordinates to locate, connect and generate activities and artifacts in the product development process.
 
 It is designed to increase individual certainty and improve group collaboration by providing a precise, shared language for speaking about the end-to-end product development lifecycle.
+
+It is also designed to increase individual creativity and creation speed by providing a machine learning interface to draft a wide variety of product explanations and artifacts.
 
 Grid's key features are:
 
@@ -26,7 +28,7 @@ Grid's key features are:
 - **Intuitive**: Cell coordinates make navigation and referencing a breeze
 - **Curated**: Modern product tools and templates selected with a bias for lean workflows
 - **Extensible**: Add, remove or modify rows, columns and cells to get the right fit
-- **Creative**: Cutting edge use of natural language processing to generate product artefacts
+- **Creative**: Cutting edge use of natural language processing to generate product artifacts
 
 ## :material-map-marker-plus-outline: Positioning
 
@@ -47,6 +49,6 @@ Even expert product managers and engineers experience impostor syndrome. Positio
 
 ## :material-play-box-outline: Getting started
 
-The easiest way to get started is by reading the [framework](table.md) and then reviewing the [syntax](syntax.md). Also check out the [reading list](reading-list.md) and the [release notes](release-notes.md).
+The easiest way to get started is by reading the [framework](table.md) and then trying out the [app](https://gridpm.streamlit.app). Also check out the [syntax](syntax.md), [reading list](reading-list.md) and the [release notes](release-notes.md).
 
-A detailed 🚧[usage guide](usage.md)🚧 is in development. Developers or advanced users can explore the documentation [source](https://github.com/sarantium/grid) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./license.md).
+A detailed 🚧[usage guide](usage.md)🚧 and 🚧[artificial intelligence primer](artificial_intelligence.md)🚧 are in development. Developers or advanced users can explore the documentation and app [source](https://github.com/sarantium/grid) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./license.md).

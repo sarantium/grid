@@ -14,6 +14,7 @@ st.info("A positioning framework for digital product development that uses natur
 st.header(":violet[Links]:link:")
 st.markdown("**Documentation** : https://grid.sarantium.dev")
 st.markdown("**Source** : https://github.com/sarantium/grid")
+st.markdown("**App** : https://gridpm.streamlit.app")
 
 # GRID
 st.header(":violet[Grid Table]")
@@ -48,7 +49,7 @@ if st.button(label="generate", key=1, help="generates the grid table with contex
 st.header(":violet[Widget 1 : User Persona Generator]:sunglasses:")
 CONTEXT = st.text_area(
     label="Please describe the main **:red[problem]** your **:red[product or feature]** aims to solve for your **:red[target audience]**", 
-    max_chars=100,
+    max_chars=200,
     placeholder="problem:  \nproduct or feature:  \ntarget audience:  \n")
 
 # persona

@@ -1,10 +1,13 @@
-## 🚧 0.0.3 (in development) 🚧
+## 🚧 0.0.4 (in development) 🚧
 
-- **enhancement**{.chip-enhancement} updated readme to include generate section and artificial intelligence
-- **feature**{.chip-enhancement} added initial commit for app
-- **feature**{.chip-enhancement} added ai documentation
 - **enhancement**{.chip-enhancement} simplified material icons in framework to prebundled set
 - **fix**{.chip-fix} edit git log to "release: v0.0.1"
+
+## 0.0.3
+
+- **enhancement**{.chip-enhancement} updated readme to include app and ai document
+- **feature**{.chip-feature} added app at [https://gridpm.streamlit.app](https://gridpm.streamlit.app)
+- **feature**{.chip-feature} added [artificial intelligence](artificial_intelligence.md) primer stub
 
 ## 0.0.2
 
