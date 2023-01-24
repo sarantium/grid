@@ -7,11 +7,11 @@
 
 ---
 
-**Documentation**: <a href="https://grid.sarantium.dev" target="_blank">https://grid.sarantium.dev</a>
+:material-file-document-arrow-right-outline: **Documentation**: <a href="https://grid.sarantium.dev" target="_blank">https://grid.sarantium.dev</a>
 
-**Source**: <a href="https://github.com/sarantium/grid" target="_blank">https://github.com/sarantium/grid</a>
+:material-code-tags: **Source**: <a href="https://github.com/sarantium/grid" target="_blank">https://github.com/sarantium/grid</a>
 
-**App**: <a href="https://gridpm.streamlit.app" target="_blank">https://gridpm.streamlit.app</a>
+:material-robot-outline: **App**: <a href="https://gridpm.streamlit.app" target="_blank">https://gridpm.streamlit.app</a>
 
 ---
 
@@ -20,6 +20,8 @@
 It is designed to increase individual certainty and improve group collaboration by providing a precise, shared language for speaking about the end-to-end product development lifecycle.
 
 It is also designed to increase individual creativity and creation speed by providing a machine learning interface to draft a wide variety of product explanations and artifacts.
+
+## :material-key-alert-outline: Key Features
 
 Grid's key features are:
 
