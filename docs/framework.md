@@ -108,41 +108,35 @@ line_end_circle
    </tr>
 <tr>
      <th scope ="row">4</th>
-     <td style ="text-align: center"><a href="\assets\cr_shortguide_221004.pdf">Critical Realism</a></td>
-     <td style ="text-align: center"><a href="https://youtu.be/yNCcQODWYh0">Continuous Discovery</a></td>
+     <td style ="text-align: center"><select>
+        <option><a href="\assets\cr_shortguide_221004.pdf">Critical Realism</a></option>
+        <option>Diataxis</option>
+        </select></td>
+     <td style ="text-align: center"><select>
+        <option><a href="https://youtu.be/yNCcQODWYh0">Continuous Discovery</a></option>
+        <option>Docs as Code</option>
+        </select></td>
      <td style ="text-align: center">Vision Statement</td>
-     <td style ="text-align: center">Strategy Brief</td>
+     <td style ="text-align: center"><select>
+        <option>Strategy Brief</option>
+        <option>Principles</option>
+        <option>Playbook</option>
+        </select></td> 
      <td style ="text-align: center">Risk Register</td>
      <td style ="text-align: center">RACI</td>
      <td style ="text-align: center">Project Control Group</td>
-     <td style ="text-align: center">Opportunity Solution Tree</td>
+     <td style ="text-align: center"><select>
+        <option>Opportunity Solution Tree</option>
+        <option>Charter User Program</option>
+        <option>Personas</option>
+        <option>Prototypes</option>
+        </select></td>
      <td style ="text-align: center">Product Brief</td>
      <td style ="text-align: center">Release Plan</td>
      <td style ="text-align: center">Launch Plan</td>
      <td style ="text-align: center">Experiments</td>
      <td style ="text-align: center"><a href="https://matthewstrom.com/writing/responsive-roadmaps/">Responsive Roadmap</a></td>
      <td style ="text-align: center">Decommission Plan</td>
-   </tr>
-   <tr>
-     <th scope ="row">5</th>
-     <td style ="text-align: center"><a href="https://diataxis.fr/">Diataxis</a></td>
-     <td style ="text-align: center">Docs-as-code</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center"><select>
-        <option>Principles</option>
-        <option>Playbook</option>
-        <option>Charter Users</option>
-      </select></td>
-     <td style ="text-align: center"><a href="https://www.svpg.com/four-big-risks">4 Risks</a></td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">Personas</td>
-     <td style ="text-align: center">Prototypes</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">-</td>
-     <td style ="text-align: center">-</td>
    </tr>
   </tbody>
 </table>

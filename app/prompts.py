@@ -1,5 +1,6 @@
-# generate grid table
+# prompt1 : generate grid table
 
+prompt1 = """
 The Grid is a positioning framework that is used in digital product development. It is represented in a table format, with a header row containing the letters A to N, and a header column containing the numbers 1 to 3. The table is divided into multiple rows, each containing different information that is relevant to the product development process. Specifically, the table includes the following rows:
 
 Row 1: Contains the following terms, which are repeated as indicated: philosophy (twice), scope (thrice), project (twice), growth (four times), maturity (twice), and decline (once).
@@ -7,11 +8,13 @@ Row 2: Contains the following terms: epistemology, methodology, vision, strategy
 Row 3: Contains unique and distinct emojis that correspond to the concept represented by the corresponding cell in Row 2, which are intended to visually represent the stage and phase of the product development process and make it easy to understand. Use a wide variation of emojis. The emojis must not be repeated across any cells in Row 3.
 
 Create a table in markdown format that represents the Grid framework as described above.
+"""
 
-# generate user persona (long prompt)
+# prompt2 : generate user persona (long prompt)
 
-<!-- ? question for streamlit: "Please describe the main problem or challenge that your target audience faces that your product or feature aims to solve or improve." -->
+# <!-- ? question for streamlit: "Please describe the main problem or challenge that your target audience faces that your product or feature aims to solve or improve." -->
 
+prompt2 = """
 User Persona Template
 
 Name: [Insert name of persona]
@@ -60,8 +63,11 @@ Targeted for: [Insert the topic or specific industry that the persona is most re
 Buying behavior: [Insert buying behavior, including how often they make purchases, how much they are willing to spend, and any specific purchase triggers, such as sales or promotions. For example, "Makes large purchases quarterly and is willing to spend more for high-quality products"]
 
 Additional Information: [Insert any other relevant information about the persona that may not have been covered in the previous sections. For example, "The persona is a frequent traveler and values products that can enhance their travel experience"]
+"""
 
-## generate user persona (shorter prompt)
+## prompt3 : generate user persona (shorter prompt)
+
+prompt3 = """
 
 Name: [Insert name of persona]
 
@@ -104,12 +110,11 @@ Quotes or examples: [Insert any quotes or specific examples that may help to ill
 Images or avatars: [Insert any images or avatars that may help to visualize the persona, such as a stock photo or a drawing of the persona]
 
 Key Takeaways: [Summarize the main characteristics, pain points, and goals of the persona in a few bullet points]
+"""
 
-## generate financial model
+## prompt 3 : generate financial model
 
-Prompt:
-
-Prompt:
+prompt4 = """
 
 As a financial expert, your task is to conduct a thorough financial analysis and evaluation of the upcoming launch of our new [Product/Feature]. Your analysis should provide a clear and convincing justification for investing in this new venture by providing a detailed overview of its financial performance over the next five years.
 
@@ -139,3 +144,7 @@ Sensitivity analysis in a table format
 Additional outputs as needed
 
 Please present your findings in a clear and concise manner, highlighting any key takeaways or recommendations for the investment in this new product/feature. Additionally, provide insights on the potential risks and opportunities for this new feature.
+"""
+
+
+print(prompt4)

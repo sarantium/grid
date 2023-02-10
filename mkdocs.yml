@@ -90,11 +90,11 @@ plugins:
 
 nav:
   - Grid: README.md
-  - Framework: table.md
+  - Framework: framework.md
   - App: "https://gridpm.streamlit.app"
-  - Syntax: syntax.md
-  - AI: artificial_intelligence.md
-  - Usage: usage.md
-  - Release Notes: release-notes.md
+  - Concepts:
+      - Positioning: positioning-concepts.md
+      - Generating: generating-concepts.md
   - Reading List: reading-list.md
+  - Release Notes: release-notes.md
   - License: license.md
