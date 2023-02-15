@@ -3,10 +3,24 @@ A curated collection of books, articles and resources about product development.
 - :material-star-circle-outline: : highly recommended readings
 - :material-school-outline: : academic research
 - :material-alert-decagram: : new to the list
+- :material-read: : reading in progress
+- :material-progress-pencil: : writing in progress
 - :material-link: : link to reading
 - [:material-egg-easter:](science-fiction-and-fantasy.md) : easter egg
 
-Where available, citations are sourced from [WorldCat](https://www.worldcat.org/) with a preference for [ASA style](https://www.asanet.org/publications/journals/asa-style-guide/) referencing.
+Where available, citations are sourced from [WorldCat](https://www.worldcat.org/) with a preference for [ASA style](https://www.asanet.org/publications/journals/asa-style-guide/) or [Chicago style](https://www.chicagomanualofstyle.org/tools_citationguide.html) referencing.
+
+## In Progress
+
+:material-read: `Bavaro Jackie and Gayle Laakmann McDowell. 2021. Cracking the Pm Career. Palo Alto CA: CareerCup LLC.`
+
+:material-read: `Olsen Dan. 2015. The Lean Product Playbook : How to Innovate with Minimum Viable Products and Rapid Customer Feedback. Hoboken: Wiley.`
+
+:material-read: `Patton Jeff. 2014. User Story Mapping. Sebastopol CA: O'Reilly Media. https://proquest.safaribooksonline.com/9781491904893.`
+
+:material-progress-pencil: `API Design for PMs`
+
+:material-progress-pencil: [PM Skill Trees](https://medium.com/agileinsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10)
 
 ## Books
 
